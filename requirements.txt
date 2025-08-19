@@ -1,0 +1,4 @@
+python-xlib==0.33
+psutil==6.0.0
+matplotlib==3.9.2
+Pillow==10.4.0
