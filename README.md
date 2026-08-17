@@ -5,6 +5,8 @@
 IIT Delhi '24, based in Gurgaon. I design the product and write the code, so most things here
 started as something that annoyed me and ended up as either a company or a repo.
 
+Want to talk? [Book a time](https://calendar.app.google/pCcX7bqnyAtT26gM6).
+
 **Currently:** [JewelAI](https://jewel.araviai.com), AI product photography for jewellers — zero to
 2,000+ signups and 50+ paying customers in 45 days, organic, no ad spend. I also make AI launch
 videos for startups, including Lanesurf (YC S25).
@@ -31,4 +33,4 @@ semantic search and a reward model for ranking video prompts. *PyTorch · PEFT �
 `Python` `TypeScript` `Swift` · `Gemini` `Imagen` `Veo` `Claude` · `FastAPI` `Next.js` `SwiftUI` · `Figma`
 
 [kunalbairwa.com](https://kunalbairwa.com) · [X](https://x.com/kunalbairwa232) ·
-[LinkedIn](https://linkedin.com/in/kunalbairwa) · kunal@araviai.com
+[LinkedIn](https://linkedin.com/in/kunalbairwa) · [Book a call](https://calendar.app.google/pCcX7bqnyAtT26gM6) · kunal@araviai.com
