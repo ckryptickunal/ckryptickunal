@@ -1,6 +1,6 @@
 # Kunal Bairwa
 
-**Founder at [Aravi Tech Labs](https://araviai.com). I build AI tools that make images and video.**
+**Founder at [Aravi Tech Labs](https://araviai.com). I build AI systems that make AI content generation easier.**
 
 IIT Delhi '24, based in Gurgaon. I design the product and write the code, so most things here
 started as something that annoyed me and ended up as either a company or a repo.
